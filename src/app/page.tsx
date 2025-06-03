@@ -13,7 +13,7 @@ export default function FerreteriaPrincipal() {
     {
       id: 1,
       nombre: "Taladro Inalámbrico",
-      precio: "$2,499",
+      precio: "Lps. 2,499",
       imagen: "/taladro.jpg?height=200&width=200",
       categoria: "Herramientas Eléctricas",
       rating: 4.8,
@@ -22,7 +22,7 @@ export default function FerreteriaPrincipal() {
     {
       id: 2,
       nombre: "Martillo de Acero",
-      precio: "$299",
+      precio: "Lps. 299",
       imagen: "/martillo.jpg?height=200&width=200",
       categoria: "Herramientas Manuales",
       rating: 4.9,
@@ -31,7 +31,7 @@ export default function FerreteriaPrincipal() {
     {
       id: 3,
       nombre: "Juego de Destornilladores",
-      precio: "$599",
+      precio: "Lps. 599",
       imagen: "/destornilla.jpg?height=200&width=200",
       categoria: "Herramientas Manuales",
       rating: 4.7,
@@ -40,7 +40,7 @@ export default function FerreteriaPrincipal() {
     {
       id: 4,
       nombre: "Sierra Circular",
-      precio: "$3,299",
+      precio: "Lps. 3,299",
       imagen: "/sierra.jpg?height=200&width=200",
       categoria: "Herramientas Eléctricas",
       rating: 4.6,
@@ -49,7 +49,7 @@ export default function FerreteriaPrincipal() {
     {
       id: 5,
       nombre: "Llave Inglesa Set",
-      precio: "$899",
+      precio: "Lps. 899",
       imagen: "/llave.jpg?height=200&width=200",
       categoria: "Herramientas Manuales",
       rating: 4.8,
@@ -58,7 +58,7 @@ export default function FerreteriaPrincipal() {
     {
       id: 6,
       nombre: "Atornillador Eléctrico",
-      precio: "$1,799",
+      precio: "Lps. 1,799",
       imagen: "/atornillador.jpg?height=200&width=200",
       categoria: "Herramientas Eléctricas",
       rating: 4.5,
